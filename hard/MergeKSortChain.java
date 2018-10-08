@@ -1,6 +1,6 @@
-package leetcodeAgain.hard;
+package hard;
 
-import ReviewDataStructure.ListNode;
+import common.ListNode;
 
 /**
  * Created by cp

@@ -1,6 +1,5 @@
-package leetcodeAgain;
 
-import ReviewDataStructure.ListNode;
+import common.ListNode;
 
 import java.util.Collections;
 

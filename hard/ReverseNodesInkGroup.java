@@ -1,6 +1,5 @@
-package leetcodeAgain.hard;
-
-import ReviewDataStructure.ListNode;
+package hard;
+import common.ListNode;
 
 import java.util.ArrayList;
 import java.util.List;

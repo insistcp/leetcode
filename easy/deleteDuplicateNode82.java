@@ -1,6 +1,5 @@
-package leetcodeAgain;
-
-import ReviewDataStructure.ListNode;
+package easy;
+import common.ListNode;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -9,9 +8,9 @@ import java.util.Map;
  * Created by cp
  * data  2018/9/10.
  * description
- * 题目描述：删除链表中的重复元素
- * 给定一个排序链表，删除所有含有重复数字的节点，只保留原始链表中 没有重复出现 的数字。
- * 重新增加一个新的头节点
+ * 锟斤拷目锟斤拷锟斤拷锟斤拷删锟斤拷锟斤拷锟斤拷锟叫碉拷锟截革拷元锟斤拷
+ * 锟斤拷锟斤拷一锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷删锟斤拷锟斤拷锟叫猴拷锟斤拷锟截革拷锟斤拷锟街的节点，只锟斤拷锟斤拷原始锟斤拷锟斤拷锟斤拷 没锟斤拷锟截革拷锟斤拷锟斤拷 锟斤拷锟斤拷锟街★拷
+ * 锟斤拷锟斤拷锟斤拷锟斤拷一锟斤拷锟铰碉拷头锟节碉拷
  */
 public class deleteDuplicateNode82 {
     public ListNode deleteDuplicates1(ListNode head) {

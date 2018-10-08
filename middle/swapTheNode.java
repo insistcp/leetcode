@@ -1,6 +1,6 @@
-package leetcodeAgain.middle;
+package  middle;
 
-import ReviewDataStructure.ListNode;
+import common.ListNode;
 
 /**
  * Created by cp
