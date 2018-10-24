@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc290227-24c4-40f9-a7f9-e5385ed94cf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/middle/PalindromePArtitionII_132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/reverseInteger_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,33 +24,34 @@
     <session id="-1204451540">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="26" />
+          <entry key="java" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="26" />
+          <entry key="JAVA" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14323" />
+          <entry key="java" value="19078" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14323" />
+          <entry key="JAVA" value="19078" />
         </counts>
       </usages-collector>
     </session>
@@ -58,68 +59,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle/LongestConsecutiveSequence_128.java">
+        <entry file="file://$PROJECT_DIR$/middle/PalindromePArtitionII_132.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="350">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle/SumRootToLeafNumbers_129.java">
+        <entry file="file://$PROJECT_DIR$/middle/cloneGraph_133.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1475">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle/SurroundedRegions_130.java">
+        <entry file="file://$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-800">
-              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="525">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/middle/ZigZagConversion_6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-950">
+              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/middle/PalindromePArtitionII_132.java">
+        <entry file="file://$PROJECT_DIR$/easy/reverseInteger_7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+            <state relative-caret-position="359">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle/PalindromePArtitioning_131.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9875">
-              <caret line="430" selection-start-line="430" selection-end-line="430" />
-              <folding>
-                <element signature="e#15414#15415#0" expanded="true" />
-                <element signature="e#15459#15460#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15200">
+              <caret line="659" selection-start-line="659" selection-end-line="659" />
             </state>
           </provider>
         </entry>
@@ -211,6 +199,10 @@
         <option value="$PROJECT_DIR$/middle/PalindromePArtitioning_131.java" />
         <option value="$PROJECT_DIR$/middle/SurroundedRegions_130.java" />
         <option value="$PROJECT_DIR$/middle/PalindromePArtitionII_132.java" />
+        <option value="$PROJECT_DIR$/middle/cloneGraph_133.java" />
+        <option value="$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java" />
+        <option value="$PROJECT_DIR$/middle/ZigZagConversion_6.java" />
+        <option value="$PROJECT_DIR$/easy/reverseInteger_7.java" />
       </list>
     </option>
   </component>
@@ -221,10 +213,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="y" value="346" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="x" value="229" />
+    <option name="y" value="429" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -234,7 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,7 +236,7 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -256,13 +247,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539830590564" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540347166073" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -279,20 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromePArtitionII_132">
-    <configuration name="LongestConsecutiveSequence_128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.LongestConsecutiveSequence_128" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.reverseInteger_7">
     <configuration name="PalindromePArtitionII_132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="middle.PalindromePArtitionII_132" />
       <module name="leetcode" />
@@ -319,8 +298,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumRootToLeafNumbers_129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.SumRootToLeafNumbers_129" />
+    <configuration name="ZigZagConversion_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middle.ZigZagConversion_6" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -332,8 +311,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurroundedRegions_130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.SurroundedRegions_130" />
+    <configuration name="medianOfTwoSortedArrays_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middle.medianOfTwoSortedArrays_4" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -341,24 +320,31 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseInteger_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseInteger_7" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LongestConsecutiveSequence_128" />
-      <item itemvalue="Application.SumRootToLeafNumbers_129" />
-      <item itemvalue="Application.SurroundedRegions_130" />
       <item itemvalue="Application.PalindromePArtitioning_131" />
       <item itemvalue="Application.PalindromePArtitionII_132" />
+      <item itemvalue="Application.medianOfTwoSortedArrays_4" />
+      <item itemvalue="Application.ZigZagConversion_6" />
+      <item itemvalue="Application.reverseInteger_7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseInteger_7" />
+        <item itemvalue="Application.ZigZagConversion_6" />
+        <item itemvalue="Application.medianOfTwoSortedArrays_4" />
         <item itemvalue="Application.PalindromePArtitionII_132" />
         <item itemvalue="Application.PalindromePArtitioning_131" />
-        <item itemvalue="Application.SurroundedRegions_130" />
-        <item itemvalue="Application.SumRootToLeafNumbers_129" />
-        <item itemvalue="Application.LongestConsecutiveSequence_128" />
       </list>
     </recent_temporary>
   </component>
@@ -378,19 +364,20 @@
       <workItem from="1539308635386" duration="7806000" />
       <workItem from="1539569342407" duration="6344000" />
       <workItem from="1539653606227" duration="11626000" />
-      <workItem from="1539828342042" duration="1409000" />
+      <workItem from="1539828342042" duration="19722000" />
+      <workItem from="1540344921157" duration="808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44755000" />
+    <option name="totallyTimeSpent" value="63876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14845759" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.21079692" />
+      <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" visible="true" weight="0.21079692" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -398,16 +385,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49871466" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993573" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4832905" weight="0.3711201" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48457584" weight="0.3805668" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5012854" side_tool="true" visible="true" weight="0.32928476" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.26585695" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5154242" side_tool="true" visible="true" weight="0.3805668" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4993573" weight="0.26585695" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49707603" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -524,6 +511,84 @@
           <line>22</line>
           <properties />
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/PalindromePArtitionII_132.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/PalindromePArtitionII_132.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/PalindromePArtitionII_132.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/PalindromePArtitionII_132.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/ZigZagConversion_6.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/ZigZagConversion_6.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -694,6 +759,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/middle/SurroundedRegions_130.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle/PalindromePArtitionII_132.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle/cloneGraph_133.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle/medianOfTwoSortedArrays_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15200">
+          <caret line="659" selection-start-line="659" selection-end-line="659" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -729,17 +829,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle/SurroundedRegions_130.java">
+    <entry file="file://$PROJECT_DIR$/middle/ZigZagConversion_6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="-950">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle/PalindromePArtitionII_132.java">
+    <entry file="file://$PROJECT_DIR$/easy/reverseInteger_7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        <state relative-caret-position="359">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
