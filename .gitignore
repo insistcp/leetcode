@@ -2,6 +2,7 @@
 .idea/
 *.iws
 *.iml
+*.xml
 *.ipr
 out/
 
