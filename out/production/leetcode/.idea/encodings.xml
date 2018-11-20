@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/easy/partationTheChain.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/easy/zigZagConversion.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/middle/DivideTwoInteger.java" charset="GBK" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/easy/aboutChain/partationTheChain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/easy/aboutString/zigZagConversion.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/hard/aboutString/RegularExpression.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hard/aboutString/subStringWithConcatenationOfAllWords30.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/middle/aboutGraph/ValidSudoKu36.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/middle/aboutNumber/DivideTwoInteger.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
