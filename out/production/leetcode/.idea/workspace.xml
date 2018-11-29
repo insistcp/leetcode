@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc290227-24c4-40f9-a7f9-e5385ed94cf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNode_116.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/aboutTree/MininumDepthOfBinaryTree_111.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/aboutTree/MininumDepthOfBinaryTree_111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/aboutTree/isBalancedBinaryTree_110.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/aboutTree/isBalancedBinaryTree_110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/aboutTree/pathSum_112.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/aboutTree/pathSum_112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard/aboutString/DistinctSubsequences_115.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/aboutString/DistinctSubsequences_115.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middle/aboutTree/PathSumII_113.java" beforeDir="false" afterPath="$PROJECT_DIR$/middle/aboutTree/PathSumII_113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middle/aboutTree/convertSortedListToBinarySearchTree_109.java" beforeDir="false" afterPath="$PROJECT_DIR$/middle/aboutTree/convertSortedListToBinarySearchTree_109.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/aboutArray/PascalsTriangleII_119.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/aboutArray/PascalsTriangleII_119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/aboutString/ValidPalindrome_125.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/aboutString/ValidPalindrome_125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hard/aboutArray/BestTimeToBuyAndSellStockIII_123.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/aboutArray/BestTimeToBuyAndSellStockIII_123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle/aboutArray/Triangle_120.java" beforeDir="false" afterPath="$PROJECT_DIR$/middle/aboutArray/Triangle_120.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,6 +25,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/leetcode$uniquePathsII_63.ic" NAME="uniquePathsII_63 Coverage Results" MODIFIED="1540866693086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>middle.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode$ValidPalindrome_125.ic" NAME="ValidPalindrome_125 Coverage Results" MODIFIED="1543385420379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>aboutString.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/leetcode$PermutationsII_47.ic" NAME="PermutationsII_47 Coverage Results" MODIFIED="1539051793109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>middle.*</FILTER>
@@ -49,7 +49,7 @@
     <session id="-1204451540">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="2" />
@@ -57,25 +57,25 @@
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="155" />
+          <entry key="java" value="162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="155" />
+          <entry key="JAVA" value="162" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -83,96 +83,24 @@
         <counts>
           <entry key="dummy" value="4" />
           <entry key="gitignore" value="18" />
-          <entry key="java" value="64957" />
+          <entry key="java" value="70560" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="64957" />
+          <entry key="JAVA" value="70560" />
           <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle/aboutTree/convertSortedListToBinarySearchTree_109.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/aboutTree/isBalancedBinaryTree_110.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/aboutTree/MininumDepthOfBinaryTree_111.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/aboutTree/pathSum_112.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle/aboutTree/PathSumII_113.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hard/aboutString/DistinctSubsequences_115.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-125">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNode_116.java">
+        <entry file="file://$PROJECT_DIR$/hard/aboutTree/BinaryTreeMaximumPathSum_124.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#143#144#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -204,13 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/aboutNumber/sqrtx_69.java" />
-        <option value="$PROJECT_DIR$/easy/aboutString/strStr28.java" />
-        <option value="$PROJECT_DIR$/easy/aboutArray/TwoSortArrMadium4.java" />
-        <option value="$PROJECT_DIR$/easy/aboutString/zigZagConversion.java" />
-        <option value="$PROJECT_DIR$/hard/aboutString/editDistance_72.java" />
-        <option value="$PROJECT_DIR$/hard/aboutArray/InsertInterval_57.java" />
-        <option value="$PROJECT_DIR$/hard/aboutString/interleavingString_97.java" />
         <option value="$PROJECT_DIR$/hard/LongestValidParenteses32.java" />
         <option value="$PROJECT_DIR$/hard/aboutString/LongestValidParenteses32.java" />
         <option value="$PROJECT_DIR$/hard/aboutString/minimumWindowSubstring_76.java" />
@@ -255,6 +176,13 @@
         <option value="$PROJECT_DIR$/middle/aboutTree/PathSumII_113.java" />
         <option value="$PROJECT_DIR$/hard/aboutString/DistinctSubsequences_115.java" />
         <option value="$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNode_116.java" />
+        <option value="$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNodeII_116.java" />
+        <option value="$PROJECT_DIR$/easy/aboutArray/PascalsTriangle_118.java" />
+        <option value="$PROJECT_DIR$/easy/aboutArray/PascalsTriangleII_119.java" />
+        <option value="$PROJECT_DIR$/middle/aboutArray/Triangle_120.java" />
+        <option value="$PROJECT_DIR$/hard/aboutArray/BestTimeToBuyAndSellStockIII_123.java" />
+        <option value="$PROJECT_DIR$/easy/aboutString/ValidPalindrome_125.java" />
+        <option value="$PROJECT_DIR$/hard/aboutTree/BinaryTreeMaximumPathSum_124.java" />
       </list>
     </option>
   </component>
@@ -265,8 +193,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-222" />
-    <option name="y" value="380" />
+    <option name="x" value="472" />
+    <option name="y" value="197" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -279,6 +207,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,29 +218,33 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
               <item name="aboutTree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542940354619" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543456174568" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\prictice\self\leetcode\middle\aboutTree" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -325,13 +258,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PopulatingNextRightPointersInEachNode_116">
-    <configuration name="DistinctSubsequences_115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hard.aboutString.DistinctSubsequences_115" />
+  <component name="RunManager" selected="Application.BinaryTreeMaximumPathSum_124">
+    <configuration name="BestTimeToBuyAndSellStockIII_123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hard.aboutArray.BestTimeToBuyAndSellStockIII_123" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hard.aboutString.*" />
+          <option name="PATTERN" value="hard.aboutArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MininumDepthOfBinaryTree_111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aboutTree.MininumDepthOfBinaryTree_111" />
+    <configuration name="BinaryTreeMaximumPathSum_124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hard.aboutTree.BinaryTreeMaximumPathSum_124" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aboutTree.*" />
+          <option name="PATTERN" value="hard.aboutTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathSumII_113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.aboutTree.PathSumII_113" />
+    <configuration name="PascalsTriangleII_119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aboutArray.PascalsTriangleII_119" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="middle.aboutTree.*" />
+          <option name="PATTERN" value="aboutArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopulatingNextRightPointersInEachNode_116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.aboutTree.PopulatingNextRightPointersInEachNode_116" />
+    <configuration name="Triangle_120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middle.aboutArray.Triangle_120" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="middle.aboutTree.*" />
+          <option name="PATTERN" value="middle.aboutArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pathSum_112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aboutTree.pathSum_112" />
+    <configuration name="ValidPalindrome_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aboutString.ValidPalindrome_125" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aboutTree.*" />
+          <option name="PATTERN" value="aboutString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,19 +325,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MininumDepthOfBinaryTree_111" />
-      <item itemvalue="Application.pathSum_112" />
-      <item itemvalue="Application.PathSumII_113" />
-      <item itemvalue="Application.DistinctSubsequences_115" />
-      <item itemvalue="Application.PopulatingNextRightPointersInEachNode_116" />
+      <item itemvalue="Application.PascalsTriangleII_119" />
+      <item itemvalue="Application.Triangle_120" />
+      <item itemvalue="Application.BestTimeToBuyAndSellStockIII_123" />
+      <item itemvalue="Application.ValidPalindrome_125" />
+      <item itemvalue="Application.BinaryTreeMaximumPathSum_124" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PopulatingNextRightPointersInEachNode_116" />
-        <item itemvalue="Application.DistinctSubsequences_115" />
-        <item itemvalue="Application.PathSumII_113" />
-        <item itemvalue="Application.pathSum_112" />
-        <item itemvalue="Application.MininumDepthOfBinaryTree_111" />
+        <item itemvalue="Application.BinaryTreeMaximumPathSum_124" />
+        <item itemvalue="Application.ValidPalindrome_125" />
+        <item itemvalue="Application.BestTimeToBuyAndSellStockIII_123" />
+        <item itemvalue="Application.Triangle_120" />
+        <item itemvalue="Application.PascalsTriangleII_119" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +372,10 @@
       <workItem from="1542765788538" duration="6455000" />
       <workItem from="1542851304779" duration="6023000" />
       <workItem from="1542866066121" duration="37000" />
-      <workItem from="1542939731158" duration="622000" />
+      <workItem from="1542939731158" duration="4387000" />
+      <workItem from="1543286018772" duration="4458000" />
+      <workItem from="1543372785374" duration="8651000" />
+      <workItem from="1543455647561" duration="583000" />
     </task>
     <servers />
   </component>
@@ -449,13 +385,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189947000" />
+    <option name="totallyTimeSpent" value="207404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82422805" visible="true" weight="0.19473007" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82422805" visible="true" weight="0.14781491" />
       <window_info id="Structure" order="1" sideWeight="0.17577197" side_tool="true" weight="0.22622108" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -464,15 +400,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8084833" visible="true" weight="0.1417004" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.45694086" weight="0.3994602" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7982005" weight="0.40350878" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4485861" weight="0.39136302" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.19151671" side_tool="true" visible="true" weight="0.1417004" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20179948" side_tool="true" visible="true" weight="0.40350878" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49357328" weight="0.26585695" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49333334" weight="0.25" />
@@ -993,6 +929,72 @@
           <properties />
           <option name="timeStamp" value="153" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNode_116.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNode_116.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNode_116.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNode_116.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/aboutArray/PascalsTriangle_118.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/aboutArray/PascalsTriangleII_119.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/aboutArray/Triangle_120.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/middle/aboutArray/Triangle_120.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hard/aboutArray/BestTimeToBuyAndSellStockIII_123.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hard/aboutArray/BestTimeToBuyAndSellStockIII_123.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/aboutString/ValidPalindrome_125.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1004,55 +1006,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hard/aboutChain/ReverseNodesInkGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hard/aboutTree/scrambleString_87.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hard/aboutString/subStringWithConcatenationOfAllWords30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hard/aboutString/testJustification_68.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hard/aboutNumber/validNumber_65.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hard/aboutString/wildCardMatching_44.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/middle/aboutGraph/cloneGraph_133.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/middle/aboutNumber/Combinations_77.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -1319,7 +1272,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/middle/aboutTree/convertSortedListToBinarySearchTree_109.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="375">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1358,6 +1311,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hard/aboutString/DistinctSubsequences_115.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNode_116.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNodeII_116.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/aboutArray/PascalsTriangle_118.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/aboutArray/PascalsTriangleII_119.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1368,17 +1365,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hard/aboutString/DistinctSubsequences_115.java">
+    <entry file="file://$PROJECT_DIR$/hard/aboutArray/BestTimeToBuyAndSellStockIII_123.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="850">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle/aboutTree/PopulatingNextRightPointersInEachNode_116.java">
+    <entry file="file://$PROJECT_DIR$/easy/aboutString/ValidPalindrome_125.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        <state relative-caret-position="50">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle/aboutArray/Triangle_120.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hard/aboutTree/BinaryTreeMaximumPathSum_124.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
